@@ -1,0 +1,17 @@
+C:\Users\ivan6\source\repos\PPRR8888\PPRR8888\bin\Debug\net6.0\PPRR8888.exe
+C:\Users\ivan6\source\repos\PPRR8888\PPRR8888\bin\Debug\net6.0\PPRR8888.deps.json
+C:\Users\ivan6\source\repos\PPRR8888\PPRR8888\bin\Debug\net6.0\PPRR8888.runtimeconfig.json
+C:\Users\ivan6\source\repos\PPRR8888\PPRR8888\bin\Debug\net6.0\PPRR8888.dll
+C:\Users\ivan6\source\repos\PPRR8888\PPRR8888\bin\Debug\net6.0\PPRR8888.pdb
+C:\Users\ivan6\source\repos\PPRR8888\PPRR8888\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ivan6\source\repos\PPRR8888\PPRR8888\obj\Debug\net6.0\PPRR8888.csproj.AssemblyReference.cache
+C:\Users\ivan6\source\repos\PPRR8888\PPRR8888\obj\Debug\net6.0\PPRR8888.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan6\source\repos\PPRR8888\PPRR8888\obj\Debug\net6.0\PPRR8888.AssemblyInfoInputs.cache
+C:\Users\ivan6\source\repos\PPRR8888\PPRR8888\obj\Debug\net6.0\PPRR8888.AssemblyInfo.cs
+C:\Users\ivan6\source\repos\PPRR8888\PPRR8888\obj\Debug\net6.0\PPRR8888.csproj.CoreCompileInputs.cache
+C:\Users\ivan6\source\repos\PPRR8888\PPRR8888\obj\Debug\net6.0\PPRR8888.csproj.CopyComplete
+C:\Users\ivan6\source\repos\PPRR8888\PPRR8888\obj\Debug\net6.0\PPRR8888.dll
+C:\Users\ivan6\source\repos\PPRR8888\PPRR8888\obj\Debug\net6.0\refint\PPRR8888.dll
+C:\Users\ivan6\source\repos\PPRR8888\PPRR8888\obj\Debug\net6.0\PPRR8888.pdb
+C:\Users\ivan6\source\repos\PPRR8888\PPRR8888\obj\Debug\net6.0\PPRR8888.genruntimeconfig.cache
+C:\Users\ivan6\source\repos\PPRR8888\PPRR8888\obj\Debug\net6.0\ref\PPRR8888.dll
